@@ -1,7 +1,5 @@
 ## Proyecto-Unity---Prueba-Objetiva (https://github.com/ngallojdam/Proyecto-Unity---Prueba-Objetiva)
 
-
-As I had already indicated in my previous repository (https://github.com/ngallojdam/My-first-project-in-Unity). This is my first experience in Unity.
 =======
 As I had already indicated in my [previous repository] (https://github.com/ngallojdam/My-first-project-in-Unity). This is my first experience in Unity.
 
