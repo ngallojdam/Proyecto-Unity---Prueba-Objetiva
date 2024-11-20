@@ -15,8 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Minigame2.unity
     guid: ba539b872d681c24d80235026034984a
   m_configObjects:
-    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: aa6d7e5664a81964194c7f49f6a6f28b, type: 2}
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 775dea0ec97594740804124fdfda9027, type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 91ccb546c70646946b051cba4a805c09, type: 2}
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 1d88200ec07aa3240bfc8585da3ec08a, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 65e255d84a763bc4bae8bfd91c07893d, type: 2}
-    com.unity.input.settings: {fileID: 11400000, guid: bd9bbd71a56b6854598f118fb7c437ca, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0b6b84ccfd84c3b469667347da57045e, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ad3fbb5a3d00f5b4283e6629da1bf8c4, type: 2}
