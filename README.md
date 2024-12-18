@@ -1,9 +1,13 @@
 ## Proyecto-Unity---Prueba-Objetiva (https://github.com/ngallojdam/Proyecto-Unity---Prueba-Objetiva)
 
-=======
 As I had already indicated in my [previous repository] (https://github.com/ngallojdam/My-first-project-in-Unity). This is my first experience in Unity.
 
-Rolling a ball
+## Rolling a ball
+
+![image](https://github.com/user-attachments/assets/9f6b822b-e966-4bde-9f8d-34ca58ac3c8f)
+
+
+
 
 ### Full stack example with Unity
 
