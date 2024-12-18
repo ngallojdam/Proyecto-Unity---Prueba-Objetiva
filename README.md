@@ -1,10 +1,17 @@
 ## Proyecto-Unity---Prueba-Objetiva (https://github.com/ngallojdam/Proyecto-Unity---Prueba-Objetiva)
 
+![image](https://github.com/user-attachments/assets/9f6b822b-e966-4bde-9f8d-34ca58ac3c8f)     
+
 As I had already indicated in my [previous repository] (https://github.com/ngallojdam/My-first-project-in-Unity). This is my first experience in Unity.
 
-## Rolling a ball
+                                                              
+                                                              ## Rolling a ball
 
-![image](https://github.com/user-attachments/assets/9f6b822b-e966-4bde-9f8d-34ca58ac3c8f)
+                                
+
+![image](https://github.com/user-attachments/assets/3511aada-d5fc-4d88-8ea2-92ea8c7d2e59)    ![image](https://github.com/user-attachments/assets/dae2404e-b148-4b27-b27c-1d8cba6fa0dd)
+
+![image](https://github.com/user-attachments/assets/b1d79402-caf3-46e5-89a0-5d47db5f88da)    ![image](https://github.com/user-attachments/assets/cdc3066a-1e58-435e-8ef9-a5817b87b0b6)
 
 
 
